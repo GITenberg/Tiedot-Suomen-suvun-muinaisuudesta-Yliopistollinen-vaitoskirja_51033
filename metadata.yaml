@@ -1,4 +1,8 @@
 _repo: Tiedot-Suomen-suvun-muinaisuudesta-Yliopistollinen-vaitoskirja_51033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yrjö-Koskinen, Yrjö Sakari
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8325
     wikipedia: http://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51033#Tiedot-Suomen-suvun-muinaisuudesta-Yliopistollinen-vaitoskirja
 gutenberg_issued: '2016-01-25'
 gutenberg_type: Text
 identifiers:
